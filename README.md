@@ -26,14 +26,12 @@ While Generative AI tools (e.g., ChatGPT / LLM-based writing assistants) signifi
 ## 📊 Key Empirical Findings
 
 Paired quasi-experimental analysis ($N = 60$ paired pre/post essays) evaluated via advanced computational corpus linguistics and psychometric scaling (AGS) confirms the central trade-off:
-
-| Metric Category | Feature / Indicator | Pre-AI (Mean ± SD) | Post-AI (Mean ± SD) | Statistical Test ($t$-value) | Effect Size (Cohen's $d$) | $p$-value |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Linguistic Accuracy** | Grammar Errors ($/100\text{w}$) | $8.42 \pm 2.11$ | $1.15 \pm 0.62$ | $t = -23.04$ | $d = -2.97$ | $< .001$ |
-| **Lexical Sophistication** | Lexical Diversity (MTLD) | $48.30 \pm 6.84$ | $82.65 \pm 8.12$ | $t = 29.13$ | $d = 3.76$ | $< .001$ |
-| **Syntactic Complexity** | Mean Length of T-unit (MLT) | $12.45 \pm 1.82$ | $18.90 \pm 2.41$ | $t = 16.85$ | $d = 2.18$ | $< .001$ |
-| **Authorial Voice** | Stance & Hedging Markers | $6.85 \pm 1.45$ | $2.10 \pm 0.88$ | $t = -19.42$ | $d = -2.51$ | $< .001$ |
-| **Psychometric (AGS)** | Perceived Authenticity Gap | $2.18 \pm 0.64$ | $4.42 \pm 0.51$ | $t = 21.80$ | $d = 2.81$ | $< .001$ |
+ویژگی	تفاوت میانگین	t(59)	p (Holm)	Cohen’s d_z	95% CI
+Grammar Errors	−8.50	−23.04	< .001	−2.97	[−9.23, −7.76]
+Lexical Diversity (MTLD)	+34.34	+29.13	< .001	+3.76	[31.98, 36.70]
+Stance Markers	−2.71	−19.42	< .001	−2.51	[−2.98, −2.43]
+First-Person Expressions	−1.57	−11.98	< .001	−1.55	[−1.83, −1.30]
+Authenticity Gap Proxy	−0.78	−5.21	< .001	−0.67	[−1.08, −0.48]
 
 ---
 
