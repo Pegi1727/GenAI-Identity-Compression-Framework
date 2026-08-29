@@ -23,17 +23,17 @@ While Generative AI tools (e.g., ChatGPT / LLM-based writing assistants) signifi
 
 ---
 
-## 📊 Key Empirical Findings
+### 📊 Key Empirical Findings (N = 60 Pairs: Raw vs. AI-Voice)
 
-Paired quasi-experimental analysis ($N = 60$ paired pre/post essays) evaluated via advanced computational corpus linguistics and psychometric scaling (AGS) confirms the central trade-off:
-ویژگی	تفاوت میانگین	t(59)	p (Holm)	Cohen’s d_z	95% CI
-Grammar Errors	−8.50	−23.04	< .001	−2.97	[−9.23, −7.76]
-Lexical Diversity (MTLD)	+34.34	+29.13	< .001	+3.76	[31.98, 36.70]
-Stance Markers	−2.71	−19.42	< .001	−2.51	[−2.98, −2.43]
-First-Person Expressions	−1.57	−11.98	< .001	−1.55	[−1.83, −1.30]
-Authenticity Gap Proxy	−0.78	−5.21	< .001	−0.67	[−1.08, −0.48]
+| Metric | Raw (Mean ± SD) | AI-Voice (Mean ± SD) | Mean Diff | Paired $t(59)$ | $p$ (Holm) | Cohen's $d_z$ | 95% CI |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Grammar Errors** | 12.08 ± 3.42 | 3.58 ± 1.84 | −8.50 | −23.04 | < .001 | −2.97 | [−9.23, −7.76] |
+| **Lexical Diversity (MTLD)** | 54.38 ± 9.87 | 88.72 ± 12.15 | +34.34 | +29.13 | < .001 | +3.76 | [+31.98, +36.70] |
+| **Stance Markers** | 4.82 ± 1.28 | 2.11 ± 0.91 | −2.71 | −19.42 | < .001 | −2.51 | [−2.98, −2.43] |
+| **First-Person Expressions** | 3.25 ± 1.12 | 1.68 ± 0.85 | −1.57 | −11.98 | < .001 | −1.55 | [−1.83, −1.30] |
+| **Authenticity Gap Proxy** | 2.45 ± 1.05 | 1.67 ± 0.92 | −0.78 | −5.21 | < .001 | −0.67 | [−1.08, −0.48] |
 
----
+> **Note:** All contrasts remain highly significant after Holm-Bonferroni correction ($p < .001$). Linear Mixed-Effects Models (LMEM with subject-level random intercepts) fully corroborate paired $t$-test inferences.
 
 ## 🖼️ Figures & Framework Visualizations
 
