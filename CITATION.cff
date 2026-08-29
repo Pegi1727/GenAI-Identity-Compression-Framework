@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, methodology, or code, please cite it as below."
+authors:
+  - family-names: "Merrikhi"
+    given-names: "Pegah"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Replication Data and Statistical Pipeline for: Generative AI and Voice/Identity Compression in L2 Academic Writing"
+version: 1.0.0
+doi: 10.5281/zenodo.22159148
+date-released: 2026-08-29
+url: "https://github.com/your-username/your-repo-name"
+keywords:
+  - applied linguistics
+  - second language writing
+  - generative AI
+  - identity compression
+  - linear mixed-effects models
+  - learner agency
