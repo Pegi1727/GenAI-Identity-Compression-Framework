@@ -58,7 +58,42 @@ Paired quasi-experimental analysis ($N = 60$ paired pre/post essays) evaluated v
 | <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure10_integrated_conceptual_model_pink_gray.png" width="450"/> | **Figure 10** — Integrated Computational & Pedagogical Intervention Model |
 
 ---
+Reproduction & Setup
+Prerequisites
+Clone the repository and install all required scientific and NLP libraries:
 
+bash
+git clone https://github.com/Pegi1727/GenAI-Identity-Compression-Framework.git
+cd GenAI-Identity-Compression-Framework
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+Running the Pipeline
+You can run all analyses sequentially via the command line:
+
+bash
+# Execute advanced corpus linguistic and statistical modules
+python scripts/06_revision_intensity_and_edits.py
+python scripts/07_semantic_affective_shift.py
+python scripts/08_corpus_keyness_and_contrastive_viz.py
+python scripts/09_syntactic_complexity_lu2010.py
+Or open and run Full_Analysis_Pipeline.ipynb in Jupyter Notebook / VS Code for step-by-step verification.
+
+📜 Citation
+If you use this dataset, methodology, or the Identity Compression Framework in your research, please cite:
+
+bibtex
+@article{merrikhi2026identitycompression,
+  title     = {When AI Improves the Text but Changes the Voice: Corpus, Experimental, and Attitudinal Evidence for the Identity Compression Framework},
+  author    = {Merrikhi, Pegah},
+  journal   = {Journal of Second Language Writing},
+  year      = {2026},
+  doi       = {10.5281/zenodo.22159148},
+  url       = {https://doi.org/10.5281/zenodo.22159148}
+}
+⚖️ License
+This repository is distributed under the MIT License. See the LICENSE file for details.
+
+---
 ## 📁 Repository Structure
 ```text
 ├── data/
