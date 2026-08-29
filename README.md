@@ -1,9 +1,17 @@
 # When AI Improves the Text but Changes the Voice: Corpus, Experimental, and Attitudinal Evidence for the Identity Compression Framework
 
-[![DOI](figures/zenodo.22159148.svg)](https://doi.org/10.5281/zenodo.22159148)
+[![DOI](https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/zenodo.22159148.svg)](https://doi.org/10.5281/zenodo.22159148)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Reproducibility](https://img.shields.io/badge/Reproducibility-Verified-success.svg)](https://github.com/Pegi1727/GenAI-Identity-Compression-Framework)
+
+---
+
+## 🎨 Graphical Abstract
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/ga.png" alt="Graphical Abstract" width="850"/>
+</p>
 
 ---
 
@@ -29,25 +37,27 @@ Paired quasi-experimental analysis ($N = 60$ paired pre/post essays) evaluated v
 
 ---
 
-## 🖼️ Figures
+## 🖼️ Figures & Framework Visualizations
 
-### Framework & Method
+### 1. Conceptual Framework & Research Design
 | Figure | Description |
-|:---:|---|
-| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure6_identity_compression_framework_pink_gray.png" width="420"/> | **Figure 6** — Identity Compression Framework (theoretical model) |
-| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/overall_research_design_pink_gray.png" width="420"/> | **Overall Design** — Paired quasi-experimental design, N = 60 |
-| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure2_data_collection_procedure_pink_gray.png" width="420"/> | **Figure 2** — Data collection procedure (Raw → AI → AGS survey) |
-| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure3_research_workflow_pink_gray.png" width="420"/> | **Figure 3** — Analytical workflow (pipeline 01–09) |
+| :---: | :--- |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure6_identity_compression_framework_pink_gray.png" width="450"/> | **Figure 6** — The Identity Compression Framework (Theoretical Core) |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/overall_research_design_pink_gray.png" width="450"/> | **Overall Design** — Paired Quasi-Experimental Mixed-Methods Architecture |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure2_data_collection_procedure_pink_gray.png" width="450"/> | **Figure 2** — End-to-End Data Collection Procedure (Raw $\to$ GenAI $\to$ AGS Survey) |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure3_research_workflow_pink_gray.png" width="450"/> | **Figure 3** — Analytical Pipeline Workflow (Modules `01` to `09`) |
 
-### Key Empirical Results
+### 2. Empirical Findings & Path Modeling
 | Figure | Description |
-|:---:|---|
-| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure4_before_vs_after_ai_pink_gray.png" width="420"/> | **Figure 4** — Before vs. After AI (all linguistic metrics) |
-| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure5_revision_proficiency_interaction_pink_gray.png" width="420"/> | **Figure 5** — Revision × Proficiency interaction |
-| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure7_authenticity_vs_grammar_scatter_pink_gray.png" width="420"/> | **Figure 7** — Authenticity vs. Grammar improvement |
-| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure8_authenticity_gap_path_diagram_pink_gray.png" width="420"/> | **Figure 8** — Authenticity Gap path diagram |
-| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure9_thematic_map_reduced_agency_pink_gray.png" width="420"/> | **Figure 9** — Thematic map: Reduced Agency |
-| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure10_integrated_conceptual_model_pink_gray.png" width="420"/> | **Figure 10** — Integrated conceptual model |
+| :---: | :--- |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure4_before_vs_after_ai_pink_gray.png" width="450"/> | **Figure 4** — Contrastive Linguistic Shift Across All Dimensions (Pre vs. Post AI) |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure5_revision_proficiency_interaction_pink_gray.png" width="450"/> | **Figure 5** — Revision Intensity $\times$ L2 Proficiency Interaction Profile |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure7_authenticity_vs_grammar_scatter_pink_gray.png" width="450"/> | **Figure 7** — Grammar Improvement vs. Authorial Authenticity Trade-off |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure8_authenticity_gap_path_diagram_pink_gray.png" width="450"/> | **Figure 8** — Structural Equation / Path Model of the Authenticity Gap |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure9_thematic_map_reduced_agency_pink_gray.png" width="450"/> | **Figure 9** — Qualitative Thematic Map: Agency Dilution & Voice Homogenization |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure10_integrated_conceptual_model_pink_gray.png" width="450"/> | **Figure 10** — Integrated Computational & Pedagogical Intervention Model |
+
+---
 
 ## 📁 Repository Structure
 ```text
@@ -55,6 +65,7 @@ Paired quasi-experimental analysis ($N = 60$ paired pre/post essays) evaluated v
 │   ├── clean_analysis_df.csv            # Cleaned analytical dataset (60 pairs × 20 features)
 │   └── brave world Research_Data.xlsx   # Full raw multi-sheet dataset
 ├── figures/
+│   ├── ga.png                           # Graphical Abstract
 │   ├── zenodo.22159148.svg              # Persistent Identifier DOI badge
 │   ├── figure2_data_collection_procedure_pink_gray.png
 │   ├── figure3_research_workflow_pink_gray.png
