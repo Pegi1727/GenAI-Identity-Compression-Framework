@@ -1,0 +1,48 @@
+========================================================================
+DATA DICTIONARY / CODEBOOK
+========================================================================
+Project: Language Education in a Brave New World
+Data File Reference: brave world Research_Data_Complete.xlsx
+Prepared by: Pegah Marikh
+
+This document defines the key variables and metrics analyzed in the 
+study across the quantitative and qualitative phases.
+
+------------------------------------------------------------------------
+1. LINGUISTIC FEATURES (Sheet: Linguistic_Features)
+------------------------------------------------------------------------
+- Participant_ID: Unique identifier for participants (EFL-01 to EFL-60).
+- Mode: Writing condition.
+  * "Raw": Independent, unassisted student writing.
+  * "Revised": Text edited/polished by GPT-4o using a standard prompt.
+- Lexical_Diversity: Measured via MTLD (Measure of Textual Lexical Diversity).
+- Syntactic_Complexity: Mean Length of Clause (MLC) and Mean Length of 
+  T-unit (MLT).
+- Error_Rate: Grammar, spelling, and mechanical errors per 100 words.
+- Stance_Markers: Frequency of self-mention markers (e.g., "I", "my", "we") 
+  and hedges/boosters per 100 words.
+
+------------------------------------------------------------------------
+2. AUTHENTICITY GAP SCALE (AGS) (Sheets: AGS_Items & AGS_Subscales)
+------------------------------------------------------------------------
+The AGS measures students' psychological and identity shifts post-AI revision 
+across three subscales (5-point Likert Scale: 1 = Strongly Disagree, 
+5 = Strongly Agree):
+
+- Identity Compression (IC): The feeling that one's personal voice, 
+  cultural nuances, and unique style are flattened or standardized by AI.
+- Authenticity Gap (AG): The discrepancy between the student's actual 
+  linguistic capability and the polished output presented as their work.
+- Reduced Linguistic Agency (RLA): The perceived loss of control and ownership 
+  over the text production and revision process.
+
+------------------------------------------------------------------------
+3. THEMATIC CODING (Sheet: Interview_Codes)
+------------------------------------------------------------------------
+Qualitative codes from the semi-structured interviews with 15 participants:
+- Code_LossOfVoice: Statements indicating a sense of losing personal voice.
+- Code_DeceptivePolishing: Concerns regarding the ethical dilemma of 
+  submitting work that feels "too perfect."
+- Code_OverReliance: Dependence on AI for cognitive and linguistic drafting.
+- Code_AgenticReclamation: Active strategies used by students to push back 
+  against AI standardization.

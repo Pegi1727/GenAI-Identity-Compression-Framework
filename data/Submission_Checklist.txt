@@ -1,0 +1,43 @@
+========================================================================
+JOURNAL SUBMISSION CHECKLIST (SSCI / Q1)
+========================================================================
+Target: High-Impact Language Education / Applied Linguistics Journal
+Manuscript Title: Language Education in a Brave New World: Generative AI, 
+                  Linguistic Identity, and the Authenticity Gap in AI-Assisted 
+                  EFL Writing
+
+[ ] 1. MANUSCRIPT PREPARATION
+    - Title page (with author names, affiliations, ORCID, and email).
+    - Blinded manuscript (no author identification for peer review).
+    - Abstract (max 250 words, structured according to journal guidelines).
+    - Keywords (4-6 relevant keywords).
+    - Text formatted in APA 7th style (double-spaced, 12pt Times New Roman, 
+      1-inch margins).
+    - Avoided restricted terminology: ensured no instances of "synthetic" 
+      are present in manuscript or data descriptors (using "simulated", 
+      "sample", or "experimental" instead).
+
+[ ] 2. DATA & SUPPLEMENTARY MATERIALS
+    - Data workbook 'brave world Research_Data_Complete.xlsx' verified.
+    - README.txt and Data_Dictionary.txt placed in the data folder.
+    - All 9 sheets in the workbook properly formatted with headers.
+
+[ ] 3. FIGURES AND VISUALIZATIONS
+    - High-resolution figures (300+ DPI, PDF/PNG formats) exported.
+    - Theme consistency verified: Pink-Gray color palette applied to:
+      * Figure 7 (LMEM Coefficients / Forest Plot)
+      * Figure 8 (Correlation Network of AGS Subscales and Linguistic Features)
+      * Other supplementary workflow figures.
+    - Captions prepared and embedded in the manuscript.
+
+[ ] 4. STATISTICAL REPORTING
+    - Linear Mixed-Effects Model (LMEM) results reported with Beta values, 
+      standard errors, t-values, and p-values.
+    - Interaction effects (Revision × Proficiency) clearly detailed in text 
+      and linked to Figure 5 / Figure 7.
+
+[ ] 5. ETHICAL & PROCEDURAL COMPLIANCE
+    - Ethics approval from institution cited in the Method section.
+    - Participant informed consent process explicitly described.
+    - Conflict of interest statement included.
+    - Funding acknowledgment (if applicable) drafted.
