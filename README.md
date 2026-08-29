@@ -94,6 +94,10 @@ bibtex
 This repository is distributed under the MIT License. See the LICENSE file for details.
 
 ---
+contacts  dr Pegah Merrikhi Ph.D in Applied Linguistics   Pegah.Merrikhiii@gmail.com
+https://www.linkedin.com/in/dr-pegah-merrikhi-98a7aa105/?locale=tr
+---
+
 ## 📁 Repository Structure
 ```text
 ├── data/
