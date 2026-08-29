@@ -1,6 +1,6 @@
 # When AI Improves the Text but Changes the Voice: Generative AI, Authorial Identity, and Authenticity in EFL Writing
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.XXXXXXX-blue.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.XXXXXXX-blue.svg)](https://DOI: 10.5281/zenodo.22159148)
 [![OSF](https://img.shields.io/badge/OSF-Preregistered-blue.svg)](https://osf.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Made with Python](https://img.shields.io/badge/Python-3.11+-3776AB.svg)](https://www.python.org/)
