@@ -1,0 +1,159 @@
+Appendix A
+Authenticity Gap Scale (AGS): Development Version
+Instructions to Participants
+The following statements describe your experience after comparing your original writing with the AI-revised version. Please indicate the extent to which you agree with each statement.
+Scale:
+1 = Strongly Disagree
+2 = Disagree
+3 = Slightly Disagree
+4 = Neither Agree nor Disagree
+5 = Slightly Agree
+6 = Agree
+7 = Strongly Agree
+________________________________________
+Items
+Dimension 1: Perceived Ownership
+AG1. The final revised text still feels like my own writing.
+AG2. I feel that I am the main author of the AI-revised version.
+AG3. I can explain and justify the linguistic choices made in the final text.
+AG4. The revised version represents my own way of expressing ideas.
+________________________________________
+Dimension 2: Distance Between Actual-Self and AI-Self
+AG5. The AI-revised text sounds different from the way I normally write.
+AG6. I feel a distance between my original draft and the final revised version.
+AG7. The final version represents a more advanced writer than I currently feel I am.
+AG8. I sometimes feel that the revised text belongs more to the AI than to me.
+________________________________________
+Dimension 3: Linguistic Identity Reflection
+AG9. My personal experiences and perspectives are visible in the revised text.
+AG10. The revised text maintains my individual writing style.
+AG11. My cultural and personal background are reflected in the final version.
+AG12. The AI preserved important features of my original voice.
+________________________________________
+Dimension 4: AI Dependence and Agency
+AG13. I rely on AI to make important writing decisions.
+AG14. Without AI assistance, I would have difficulty producing a similar text.
+AG15. AI sometimes makes linguistic decisions that I would not have made myself.
+________________________________________
+Appendix B
+Standardized AI Revision Prompt
+The following prompt was used during the AI-mediated revision phase:
+"Rewrite the following EFL learner text to improve grammatical accuracy, lexical appropriateness, coherence, and academic style. Maintain the original meaning, personal perspective, and intended message. Do not add new ideas or change the writer's identity."
+________________________________________
+Appendix C
+Writing Task Instructions
+Original Writing Task
+Participants were instructed:
+"Write a reflective essay (approximately 500 words) discussing the relationship between personal identity and language learning. Explain how your experiences with language have influenced your perception of yourself."
+Writing Conditions
+	Time limit: 60 minutes 
+	No AI assistance permitted 
+	No online dictionaries 
+	No external writing support 
+	Individual completion 
+________________________________________
+Appendix D
+Semi-Structured Interview Protocol
+Purpose
+The interview explored learners' perceptions of ownership, authenticity, and agency following AI-mediated revision.
+________________________________________
+Interview Questions
+Q1. How would you describe the difference between your original text and the AI-revised version?
+Q2. Which changes made by the AI did you find useful?
+Q3. Were there any changes that made the text feel less like your own writing?
+Q4. Do you feel that the final text represents your actual English ability?
+Q5. Did you feel like the author of the final version? Why or why not?
+Q6. How did AI influence your confidence as a writer?
+Q7. Do you think repeated AI use could change the way you normally write?
+________________________________________
+Appendix E
+Coding Framework for Qualitative Analysis
+Main Theme	Definition	Example Indicators
+Loss of Personal Voice	Perceived reduction of individual stylistic features	"It doesn't sound like me"
+AI-Crutch	Increasing dependence on AI decisions	Waiting for AI suggestions
+Confidence–Authenticity Tension	Improved performance but reduced ownership	Better grade but less personal connection
+Identity Conflict	Difference between actual writer and AI-generated persona	"It sounds better but not like myself"
+________________________________________
+Appendix F
+Linguistic Feature Extraction Protocol
+Identity Compression Indicators
+1. Lexical Diversity
+Measure:
+	MTLD (Measure of Textual Lexical Diversity) 
+Comparison:
+Raw Draft → AI Revised Draft
+________________________________________
+2. Lexical Overlap
+Measure:
+Percentage of repeated high-frequency lexical items.
+Expected pattern:
+AI Revision ↑ lexical conventionality
+________________________________________
+3. Stance Markers
+Categories:
+	evaluative adjectives 
+	epistemic verbs 
+	hedging expressions 
+Examples:
+	I believe 
+	personally 
+	probably 
+	important to me 
+________________________________________
+4. Self-Reference
+Indicators:
+	first-person pronouns 
+	autobiographical expressions 
+	personal narratives 
+________________________________________
+Appendix G
+Statistical Analysis Specification
+Linear Mixed Effects Model
+The main model was specified as:
+Outcome∼Revision+Proficiency+(Revision×Proficiency)+(1∣Participant)+(1∣Essay)
+
+________________________________________
+Fixed Effects
+	AI Revision 
+	Proficiency Level 
+	Revision × Proficiency Interaction 
+________________________________________
+Random Effects
+	Participant variability 
+	Essay variability 
+________________________________________
+Appendix H
+Ethical Statement
+All participants provided informed consent before participation.
+The study protocol ensured:
+	voluntary participation 
+	anonymity 
+	confidential data storage 
+	right to withdraw 
+All texts were anonymized before linguistic analysis.
+________________________________________
+Appendix I
+Authenticity Gap Model
+Figure description
+AI Revision
+      |
+      ↓
+Linguistic Optimization
+      |
+      ↓
+Identity Compression
+      |
+      ↓
+Authenticity Gap
+      |
+      ↓
+Reduced Linguistic Agency
+________________________________________
+Appendix J
+Research Materials Availability Statement
+The following materials are available upon reasonable request:
+	Authenticity Gap Scale 
+	Interview protocol 
+	Coding framework 
+	Linguistic analysis procedures 
+Statistical model specification
