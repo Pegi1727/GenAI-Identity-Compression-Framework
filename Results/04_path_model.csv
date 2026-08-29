@@ -1,0 +1,6 @@
+Model,Term,B,SE,t,p,R2
+a: Grammar_Change ~ AGS_Total,Intercept,-9.2311,2.7031,-3.4151,0.0012,0.0013
+a: Grammar_Change ~ AGS_Total,AGS_Total,0.2450,0.8917,0.2747,0.7845,0.0013
+b: Stance_Change ~ AGS_Total + Grammar_Change,Intercept,-2.5080,1.1292,-2.2211,0.0303,0.0019
+b: Stance_Change ~ AGS_Total + Grammar_Change,AGS_Total,-0.0918,0.3401,-0.2698,0.7883,0.0019
+b: Stance_Change ~ AGS_Total + Grammar_Change,Grammar_Change,-0.0091,0.0501,-0.1827,0.8557,0.0019
