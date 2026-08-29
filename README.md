@@ -29,27 +29,25 @@ Paired quasi-experimental analysis ($N = 60$ paired pre/post essays) evaluated v
 
 ---
 
-## 🖼️ Figures & Framework Visualizations
+## 🖼️ Figures
 
-### 1. Conceptual Framework & Research Design
+### Framework & Method
 | Figure | Description |
-| :---: | :--- |
-| <img src="figures/figure6_identity_compression_framework_pink_gray.png" width="450"/> | **Figure 6** — The Identity Compression Framework (Theoretical Core) |
-| <img src="figures/overall_research_design_pink_gray.png" width="450"/> | **Overall Design** — Paired Quasi-Experimental Mixed-Methods Architecture |
-| <img src="figures/figure2_data_collection_procedure_pink_gray.png" width="450"/> | **Figure 2** — End-to-End Data Collection Procedure (Raw $\to$ GenAI $\to$ AGS Survey) |
-| <img src="figures/figure3_research_workflow_pink_gray.png" width="450"/> | **Figure 3** — Analytical Pipeline Workflow (Modules `01` to `09`) |
+|:---:|---|
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure6_identity_compression_framework_pink_gray.png" width="420"/> | **Figure 6** — Identity Compression Framework (theoretical model) |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/overall_research_design_pink_gray.png" width="420"/> | **Overall Design** — Paired quasi-experimental design, N = 60 |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure2_data_collection_procedure_pink_gray.png" width="420"/> | **Figure 2** — Data collection procedure (Raw → AI → AGS survey) |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure3_research_workflow_pink_gray.png" width="420"/> | **Figure 3** — Analytical workflow (pipeline 01–09) |
 
-### 2. Empirical Findings & Path Modeling
+### Key Empirical Results
 | Figure | Description |
-| :---: | :--- |
-| <img src="figures/figure4_before_vs_after_ai_pink_gray.png" width="450"/> | **Figure 4** — Contrastive Linguistic Shift Across All Dimensions (Pre vs. Post AI) |
-| <img src="figures/figure5_revision_proficiency_interaction_pink_gray.png" width="450"/> | **Figure 5** — Revision Intensity $\times$ L2 Proficiency Interaction Profile |
-| <img src="figures/figure7_authenticity_vs_grammar_scatter_pink_gray.png" width="450"/> | **Figure 7** — Grammar Improvement vs. Authorial Authenticity Trade-off |
-| <img src="figures/figure8_authenticity_gap_path_diagram_pink_gray.png" width="450"/> | **Figure 8** — Structural Equation / Path Model of the Authenticity Gap |
-| <img src="figures/figure9_thematic_map_reduced_agency_pink_gray.png" width="450"/> | **Figure 9** — Qualitative Thematic Map: Agency Dilution & Voice Homogenization |
-| <img src="figures/figure10_integrated_conceptual_model_pink_gray.png" width="450"/> | **Figure 10** — Integrated Computational & Pedagogical Intervention Model |
-
----
+|:---:|---|
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure4_before_vs_after_ai_pink_gray.png" width="420"/> | **Figure 4** — Before vs. After AI (all linguistic metrics) |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure5_revision_proficiency_interaction_pink_gray.png" width="420"/> | **Figure 5** — Revision × Proficiency interaction |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure7_authenticity_vs_grammar_scatter_pink_gray.png" width="420"/> | **Figure 7** — Authenticity vs. Grammar improvement |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure8_authenticity_gap_path_diagram_pink_gray.png" width="420"/> | **Figure 8** — Authenticity Gap path diagram |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure9_thematic_map_reduced_agency_pink_gray.png" width="420"/> | **Figure 9** — Thematic map: Reduced Agency |
+| <img src="https://raw.githubusercontent.com/Pegi1727/GenAI-Identity-Compression-Framework/main/figures/figure10_integrated_conceptual_model_pink_gray.png" width="420"/> | **Figure 10** — Integrated conceptual model |
 
 ## 📁 Repository Structure
 ```text
